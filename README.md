@@ -16,7 +16,7 @@ O programa permanece em execução até que o usuário escolha sair.
 - `gousmasWar()` - Gerencia o jogo estratégico das Gousmas.
 
 ## Feito por:
-Luis Arthur Vasconcellos Marciao
+Luis Arthur Vasconcellos Marciao.
 
 ## Referências:
 Trechos do código foram desenvolvidos com auxílio de materiais acadêmicos e ferramentas como ChatGPT.
