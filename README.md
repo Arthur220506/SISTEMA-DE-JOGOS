@@ -1,6 +1,6 @@
 # SISTEMA-DE-JOGOS
 
-## Descrição
+## Descrição:
 Este projeto contém três minijogos interativos desenvolvidos em linguagem C. O sistema apresenta um menu inicial onde o jogador pode escolher entre os jogos:
 
 1. **Pergunta e Resposta** - Um quiz com cinco perguntas de múltipla escolha.
@@ -9,15 +9,14 @@ Este projeto contém três minijogos interativos desenvolvidos em linguagem C. O
 
 O programa permanece em execução até que o usuário escolha sair.
 
-## Estrutura do Código
+## Estrutura do Código:
 - `menu()` - Exibe o menu inicial e controla a navegação.
 - `perguntaEResposta()` - Contém um jogo de perguntas e respostas.
 - `cobraNaCaixa()` - Implementa o jogo da cobra e do botão.
 - `gousmasWar()` - Gerencia o jogo estratégico das Gousmas.
 
-## Integrantes
-- Nome 1
-- Nome 2
+## Feito por:
+Luis Arthur Vasconcellos Marciao
 
-## Referências
+## Referências:
 Trechos do código foram desenvolvidos com auxílio de materiais acadêmicos e ferramentas como ChatGPT.
