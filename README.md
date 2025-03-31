@@ -19,4 +19,4 @@ O programa permanece em execução até que o usuário escolha sair.
 Luis Arthur Vasconcellos Marciao.
 
 ## Referências:
-Trechos do código foram desenvolvidos com auxílio de materiais acadêmicos e ferramentas como ChatGPT.
+As perguntas do jogo **Pergunta e Resposta** foram feitas com o chat gpt.
