@@ -3,11 +3,6 @@
 #include <time.h>
 #include <string.h>
 
-void perguntaEResposta();
-void cobraNaCaixa();
-void gousmasWar();
-void menu();
-
 int main() {
     menu();
     return 0;
